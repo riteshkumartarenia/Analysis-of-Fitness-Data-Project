@@ -12,4 +12,5 @@ With the explosion in fitness tracker popularity, runners all of the world are c
 
 This data was exported from Runkeeper.
 Dataset is a csv file.
+
 Python libraries used: pandas, matplotlib, warnings, statsmodel, numpy, scikit-learn
